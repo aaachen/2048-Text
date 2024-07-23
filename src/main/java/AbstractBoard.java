@@ -112,7 +112,7 @@ public abstract class AbstractBoard {
   public abstract void setBoard(int[][] board);
 
   /**
-   * Bonus Challenges/Features:
+   * Bonus Challenges and features:
    * - Score tallying
    * - Set alternative win condition (i.e. first to 256)
    * - Customize board dimension

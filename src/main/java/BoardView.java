@@ -13,8 +13,8 @@ public class BoardView {
       System.out.println("-".repeat(lineSeparatorLength));
     }
     System.out.println("Player Turn: " + this.turn);
-    printInstruction();
     printScore();
+    printInstruction();
     printBoard();
     printGameState();
     turn++;

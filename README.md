@@ -4,7 +4,7 @@
 
 [Clone on replit](https://replit.com/@andrewxychen/2048-Text?v=1) | [View in Github](https://github.com/aaachen/2048-Text)
 
-This is a project I created for AP computer science A students while volunteering for the [TEALs program](https://www.microsoft.com/en-us/teals)
+This is a post-AP exam project I created for the AP CS A students while volunteering for [TEALs](https://www.microsoft.com/en-us/teals)
 
 I find it a nice way to introduce some important software engineering concepts to students (utility methods, algorithmic thinking, modular code and pattern, testing, etc.). Hope you find this useful as an instructor!
 
